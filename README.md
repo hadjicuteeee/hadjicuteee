@@ -49,7 +49,6 @@
 ---
 
 ##  Featured Projects  
-(*Pin these projects sa GitHub mo para lumabas sa top section*)
 
 ###  **SQL Analytics Projects**  
 Collection of SQL practice: JOINs, CTEs, Window Functions, Aggregates, Date functions.
