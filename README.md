@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Jihad</h1>
+<h1 align="center">Hi, I'm Jihad</h1>
 <h3 align="center">Aspiring Data Analyst/Data Engineer | SQL • Python (Pandas) • Power BI</h3>
 
 <p align="center">
@@ -8,13 +8,13 @@
 
 ---
 
-## 🔥 About Me  
-- 📊 Future **Data Analyst / BI Analyst**  
-- 🧠 Currently learning **SQL, Python (Pandas), Power BI**  
-- 🧹 Focused on **data cleaning, wrangling, and exploratory analysis**  
-- 🎯 Goal: Build real-world ETL projects (SQL → Python → Power BI)  
-- 🗂 Loves working with messy data and turning it into insights  
-- 🎓 BSIT Student • Ladderized Program Graduate  
+##  About Me  
+- Future **Data Analyst / BI Analyst**  
+- Currently learning **SQL, Python (Pandas), Power BI**  
+- Focused on **data cleaning, wrangling, and exploratory analysis**  
+- Goal: Build real-world ETL projects (SQL → Python → Power BI)  
+- Loves working with messy data and turning it into insights  
+-  BSIT Student • Ladderized Program Graduate  
 
 ---
 
@@ -48,28 +48,32 @@
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects  
 (*Pin these projects sa GitHub mo para lumabas sa top section*)
 
-### 📁 **SQL Analytics Projects**  
+###  **SQL Analytics Projects**  
 Collection of SQL practice: JOINs, CTEs, Window Functions, Aggregates, Date functions.
 
-### 🧹 **Python Data Cleaning Projects**  
+###  **Python Data Cleaning Projects**  
 Messy → Clean dataset transformations using Pandas.
 
-### 📊 **Power BI Dashboards**  
+###  **Power BI Dashboards**  
 KPIs, bar charts, revenue trends, customer segmentation.
 
-### 🛠️ Integrative Programming (School Projects)  
+###  Integrative Programming (School Projects)  
 JavaScript basics, DOM manipulation, and front-end outputs.
 
 ---
 
-## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadjicuteeee&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadjicuteeee&layout=compact&theme=tokyonight" height="160px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hadjicuteeee&show_icons=true&theme=tokyonight" 
+    height="160px"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadjicuteeee&layout=compact&theme=tokyonight" 
+    height="160px"
+  />
 </p>
 
----
 
