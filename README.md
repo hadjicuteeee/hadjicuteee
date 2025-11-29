@@ -18,7 +18,7 @@
 
 ---
 
-## 🧰 Tech Stack & Tools  
+## Tech Stack & Tools  
 
 ### 🗄️ **Databases**
 <p>
@@ -26,19 +26,19 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🐍 **Programming**
+### **Programming**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 📊 **Business Intelligence**
+### **Business Intelligence**
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### 🧰 **Tools**
+### **Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -60,10 +60,6 @@ Messy → Clean dataset transformations using Pandas.
 ###  **Power BI Dashboards**  
 KPIs, bar charts, revenue trends, customer segmentation.
 
-###  Integrative Programming (School Projects)  
-JavaScript basics, DOM manipulation, and front-end outputs.
-
----
 
 <p align="center">
  
