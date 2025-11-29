@@ -65,7 +65,7 @@ KPIs, bar charts, revenue trends, customer segmentation.
  
   <img src="https://github-readme-stats.vercel.app/api?username=hadjicuteeee&show_icons=true&theme=tokyonight" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadjicuteeee&layout=compact&theme=tokyonight" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadjicuteeee&theme=tokyonight)
 </p>
 
 
