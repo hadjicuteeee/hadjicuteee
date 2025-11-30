@@ -35,7 +35,7 @@
 
 ### 📊 Business Intelligence
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" height="50" />
 </p>
 
 ### 🛠️ Tools
