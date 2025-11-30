@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Jihad 👋</h1>
+<h1 align="center">Hi, I'm Jihad </h1>
 <h3 align="center">Aspiring Data Analyst & Data Engineer | SQL • Python • Power BI</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me  
+  About Me  
 - Future **Data Analyst / BI Analyst / Data Engineer**  
 - Currently learning **SQL, Python (Pandas), Power BI**  
 - Focused on **data cleaning, wrangling, EDA, and ETL workflows**  
@@ -18,27 +18,27 @@
 
 ---
 
-## 🧰 Tech Stack & Tools  
+ Tech Stack & Tools  
 
-### 🗄️ Databases
+ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
 </p>
 
-### 🐍 Programming & Data
+ Programming & Data
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
 </p>
 
-### 📊 Business Intelligence
+ Business Intelligence
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" height="50" />
 </p>
 
-### 🛠️ Tools
+ Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
@@ -48,7 +48,7 @@
 </p>
 
 
-### 🛠️ **Tools**
+ **Tools**
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
